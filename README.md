@@ -80,6 +80,6 @@ npm start
 
 ## 🎩 Author
 
-- IJONI VICTOR 😁😁😁
+- AJAYI TAIWO OYETOMI 😁😁😁
 
 > Don't forget to star the project 😁😁 . Thanks
